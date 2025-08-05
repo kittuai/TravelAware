@@ -1,7 +1,7 @@
 
 <!-- TravelAware Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/9Rjq3iP.png" alt="TravelAware Logo" width="600"/>
+  <img src="assets/travelaware_banner.png" alt="TravelAware – Real-Time Crime Awareness" width="1000"/>
 </p>
 
 # 🛡️ TravelAware: Real-Time Crime Awareness & Safety Assistant
