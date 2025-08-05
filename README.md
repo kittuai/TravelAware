@@ -102,7 +102,7 @@ streamlit run travelaware.py
 
 | Cluster Map | Heatmap | Route Suggestion | Crime Feed |
 |-------------|---------|------------------|-------------|
-| ![](https://i.imgur.com/pbdZXZJ.png) | ![](https://i.imgur.com/B0hX5yX.png) | ![](https://i.imgur.com/1OY6ubO.png) | ![](https://i.imgur.com/5AOGkqT.png) |
+![](assets/map_cluster_view.png) | ![](assets/heatmap_view.png) | ![](assets/safe_route.png) | ![](assets/crime_feed.png) |
 
 ---
 
