@@ -123,7 +123,7 @@ Guided and developed as part of the *Agile Software Prototyping* course at **Con
 
 Have feedback or want to collaborate?
 
-📧 bovillakrishna.ai@email.com  
+📧 bovillakrishna.ai@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/krishnaai)
 
 
