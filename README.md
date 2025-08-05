@@ -11,7 +11,6 @@
 ---
 
 ## 🌍 Live Demo Preview
-> 🔴 Replace images below with real screenshots from your deployed app
 
 <p align="center"> <img src="assets/map_cluster_view.png" alt="Cluster Map View" width="800"/> <br><i>Clusters show high-crime areas using real data</i> </p> <p align="center"> <img src="assets/heatmap_view.png" alt="Heatmap View" width="800"/> <br><i>Heatmap visualizes crime density across zones</i> </p>
 
@@ -117,8 +116,9 @@ Guided by the Agile project team, for Conestoga College
 
 Have feedback or want to collaborate?
 
-📧 krishna.reddy@email.com  
-🔗 [LinkedIn](https://linkedin.com)
+📧 bovillakrishna.ai@email.com  
+🔗 [LinkedIn](www.linkedin.com/in/krishnaai)
+
 
 ---
 
