@@ -13,15 +13,7 @@
 ## 🌍 Live Demo Preview
 > 🔴 Replace images below with real screenshots from your deployed app
 
-<p align="center">
-  <img src="https://i.imgur.com/pbdZXZJ.png" alt="Map View" width="800"/>
-  <br><i>🗺️ Cluster & Heatmap view of real-time crimes</i>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/1OY6ubO.png" alt="Route Suggestion" width="800"/>
-  <br><i>🧭 Safe route guidance based on crime zones</i>
-</p>
+<p align="center"> <img src="assets/map_cluster_view.png" alt="Cluster Map View" width="800"/> <br><i>Clusters show high-crime areas using real data</i> </p> <p align="center"> <img src="assets/heatmap_view.png" alt="Heatmap View" width="800"/> <br><i>Heatmap visualizes crime density across zones</i> </p>
 
 ---
 
