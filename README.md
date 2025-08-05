@@ -107,8 +107,15 @@ streamlit run travelaware.py
 
 ## 🤝 Credits
 
-Built with ❤️ by **Krishna Reddy**  
-Guided by the Agile project team, for Conestoga College
+Built with dedication by **Krishna Reddy Bovilla**,  
+in collaboration with the Agile project team:
+
+- **Adhitya Kondeti**  
+- **Erica Holden**  
+- **Tracy (Yu-Chen) Chou**
+
+Guided and developed as part of the *Agile Software Prototyping* course at **Conestoga College**.
+
 
 ---
 
